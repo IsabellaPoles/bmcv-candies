@@ -1,10 +1,6 @@
 # bmcv-candies
 Exercising on Biomedical Computer Vision tasks. Pick your favorite.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/75421723/162800481-135870e6-b90e-416c-b906-33c3528e4e24.gif" alt="candy" width="300"/>
-</p>
-
 A collection of assignments of the Biomedical Computer Vision UIC course. 
 
 The exercises comprise: 
